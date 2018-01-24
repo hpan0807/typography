@@ -1,0 +1,65 @@
+
+
+html {
+	width: 100%;
+    height: 100%;
+ }
+
+body{
+	margin: 0 auto ;
+	padding: 100px;
+}
+
+
+#cover{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 3em;
+	line-height: 1em;
+	font-weight: 700;
+	font-style: italic;
+	margin-bottom:30px;
+}
+
+
+
+.titleimg {
+    width: 100%;
+    height: 100%;
+    background: no-repeat center fixed; 
+    -webkit-background-size: cover;
+    margin-bottom:10px;
+}
+
+#description{
+	font-family: 'Open Sans', sans-serif;
+	color: grey;
+	line-height: 1.5em;
+	font-size: 0.8em;
+	margin-bottom:30px;
+}
+
+#container{
+	text-align: left;
+	text-indent: 3em;
+	font-family: 'Open Sans', sans-serif;
+	font-size:1em;
+	line-height: 1.5em;
+	column-count: 3;
+	column-gap: 17px
+}
+
+
+#container2{
+	margin-top: 30px;
+	font-family: 'Open Sans', sans-serif;
+	font-size:1em;
+	line-height: 1.5em;
+	column-count: 3;
+	column-gap: 17px
+}
+
+
+.subtitle{
+	font-weight:700;
+	font-size:1em;
+}
